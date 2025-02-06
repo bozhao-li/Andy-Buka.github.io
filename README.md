@@ -1,3 +1,4 @@
-# hello world!
-## 这是Andy-Buka的博客主页!
+# Name：Bozhao Li
+# Email：23b951035@stu.hit.edu.cn
+
 静态网页
